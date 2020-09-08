@@ -1,0 +1,26 @@
+{
+  "name": "@thirys/card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiryS/npx-card.git"
+  },
+  "author": "thrys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiryS/npx-card/issues"
+  },
+  "homepage": "https://github.com/ThiryS/npx-card#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "cfonts": "^2.8.6",
+    "chalk": "^4.1.0",
+    "gradient-string": "^1.2.0",
+    "terminal-link": "^2.1.1"
+  }
+}
